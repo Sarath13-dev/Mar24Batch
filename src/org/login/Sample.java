@@ -21,6 +21,8 @@ public class Sample {
 				System.out.println(i);
 			}
 		}
+		System.out.println("QA Work");
+		System.out.println("Work done by QA");
 	}
 
 }
